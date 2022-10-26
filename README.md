@@ -23,8 +23,6 @@ Python, Data Science, Machine Learning Algorithms, Deep Learning Algorithms, Num
 
 👯‍♀️ Masters in Artificial Intelligence. 
 
-🤔 I'm looking for help with...
-
 💬 Talk me about latest ongoing research or development in ML and DL domain.
 
 📫 sonalianand2406@gmail.com
