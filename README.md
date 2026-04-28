@@ -2,9 +2,10 @@
 # Hi, I'm Sonali Anand! 👋
 
 
-## 🚀 About Me
-I'm Motivated, diligent and responsible postgraduate seeking an opportunity to work in the Data Science domain. 
-Acquire the ability to apply ML techniques and leverage algorithms to solve real-world business problems such as customer segmentation and Customer Churn. 
+🔬 Researcher | IoT Networks · Edge AI · Secure CPS
+📍 JRF @ IIIT Pune | M.Tech AI, University of Hyderabad
+🎯 Seeking PhD in Self-Optimizing, Attack-Resilient IoT Architectures
+📄 IEEE ANTS 2024 Publication | 📄 IEEE ANTS 2025 Publication
 Team player with an eye for detail.
 
 
