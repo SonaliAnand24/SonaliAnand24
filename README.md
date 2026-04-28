@@ -3,10 +3,17 @@
 
 
 🔬 Researcher | IoT Networks · Edge AI · Secure CPS
+
 📍 JRF @ IIIT Pune | M.Tech AI, University of Hyderabad
+
 🎯 Seeking PhD in Self-Optimizing, Attack-Resilient IoT Architectures
+
 📄 IEEE ANTS 2024 Publication | 📄 IEEE ANTS 2025 Publication
-Team player with an eye for detail.
+
+## Research Interests:
+- TinyML & Edge Inference on Constrained Devices
+  
+- Intrusion-Resilient IoT for Smart City Infrastructure
 
 
 ## 🔗 Links
