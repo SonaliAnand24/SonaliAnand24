@@ -1,41 +1,49 @@
-
 # Hi, I'm Sonali Anand! 👋
 
+🔬 **Researcher** | AI · IoT · Optimization · Wireless Communications · Data Deduplication  
+📍 **JRF @ IIIT Pune** | M.Tech Artificial Intelligence, University of Hyderabad  
+🎯 **Actively seeking a Europe-funded PhD** at the intersection of AI, IoT, and intelligent network optimization  
+📄 **IEEE ANTS 2024 & 2025** publications  
 
-🔬 Researcher | IoT Networks · Edge AI · Secure CPS
+---
 
-📍 JRF @ IIIT Pune | M.Tech AI, University of Hyderabad
+## 🧠 Research Interests
 
-🎯 Seeking PhD in Self-Optimizing, Attack-Resilient IoT Architectures
+- **AI-Driven IoT Optimization** — Self-adapting, resource-efficient IoT architectures
+- **Data Deduplication in Constrained Networks** — Reducing redundancy at the edge
+- **Wireless Communication & Protocol Design** — IEEE 802.15.4e, deterministic scheduling
+- **TinyML & Edge Inference** — Deploying ML on resource-constrained devices
+- **Intrusion-Resilient Cyber-Physical Systems** — Secure smart city infrastructure
 
-📄 IEEE ANTS 2024 Publication | 📄 IEEE ANTS 2025 Publication
+---
 
-## Research Interests:
-- TinyML & Edge Inference on Constrained Devices
-  
-- Intrusion-Resilient IoT for Smart City Infrastructure
+## 🎓 Looking For
 
+I'm actively looking for **Europe-funded PhD positions** (Marie Skłodowska-Curie, MSCA, Horizon Europe, or university-funded) in areas combining:
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/SonaliAnand24)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonali-anand-aa175a189/)
+`Artificial Intelligence` + `IoT` + `Optimization` + `Data Deduplication` + `Wireless Communication`
+
+If you're a supervisor or know of open positions — let's connect! 📬 sonalianand2406@gmail.com
+
+---
+
 ## 🛠 Skills
-Python, Data Science, Machine Learning Algorithms, Deep Learning Algorithms, Numpy, Pandas, Matplotlib, Scikit-Learn.
 
+Python · Data Science · Machine Learning · Deep Learning · TinyML · NumPy · Pandas · Matplotlib · Scikit-Learn · IEEE 802.15.4e · Edge AI
 
-## Summary Of My Journey
+---
 
-👩‍💻 Started as a Computer Science graduate. 
+## 🔗 Connect
 
-🧠 Graduated in CSE. First Class with Distinction.
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonali-anand-aa175a189/)
+[![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonalianand2406@gmail.com)
 
-👯‍♀️ Masters in Artificial Intelligence. 
+---
 
-💬 Talk me about latest ongoing research or development in ML and DL domain.
+## 🗺 My Journey So Far
 
-📫 sonalianand2406@gmail.com
-
-😄 She, Her.
-
-⚡️ Travel and Photography enthusiast. 
-
+👩‍💻 B.Tech Computer Science — First Class with Distinction  
+🧠 M.Tech Artificial Intelligence,  University of Hyderabad  
+🔬 Junior Research Fellow @ IIIT Pune  
+📡 IEEE-published researcher in IoT & Wireless Networks  
+📸 Travel & Photography enthusiast | She/Her
