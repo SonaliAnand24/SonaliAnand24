@@ -1,6 +1,6 @@
 # Hi, I'm Sonali Anand! 👋
 
-🔬 **Researcher** | AI · IoT · Optimization · Wireless Communications · Data Deduplication  
+🔬 **Researcher** | AI · IoT · MAC Layer Optimization · Wireless Communications · Data Deduplication  
 📍 **JRF @ IIIT Pune** | M.Tech Artificial Intelligence, University of Hyderabad  
 🎯 **Actively seeking a Europe-funded PhD** at the intersection of AI, IoT, and intelligent network optimization  
 📄 **IEEE ANTS 2024 & 2025** publications  
